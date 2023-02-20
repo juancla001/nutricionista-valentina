@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Header=() => {
+const Header =() => {
   return (
     <div>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -19,9 +19,6 @@ const Header=() => {
             </li>
             <li class="nav-item">
             <a class="nav-link" href="#">Contacto</a>
-            </li>
-            <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </li>
         </ul>
         </div>
